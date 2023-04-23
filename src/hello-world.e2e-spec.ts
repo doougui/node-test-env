@@ -7,4 +7,4 @@ describe('Hello world', () => {
 
     expect(response.statusCode).toBe(200);
   })
-})
+});
