@@ -14,7 +14,7 @@
 
 > Node.js complete test environment using TypeScript, Prisma, PostgreSQL and Vitest.
 
-### 🏠 [Homepage](https://dev.to/doougui/creating-a-complete-nodejs-test-environment-with-vitest-postgres-and-prisma-110h?preview=b7f550e61b22e9819dae710230bf7d79af39d5dff1f423613099ca8fbf1a7e78e07a7470b12912834184c6fb8c5c2bfde26d830b3bfa11bb8abd2cf7)
+### 🏠 [Homepage](https://www.douglasgoulart.com/writings/creating-a-complete-nodejs-test-environment-with-vitest-postgresql-and-prisma)
 
 ## Install
 
